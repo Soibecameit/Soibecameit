@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Soibecameit&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Soibecameit"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/Soibecameit?pet-id=747668972695172221"
+    width="700"
+    height="140"
   />
 </a>
   
